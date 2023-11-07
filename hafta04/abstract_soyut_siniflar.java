@@ -7,7 +7,7 @@ package hafta04;
 
 
 abstract class Soyut{
-    //nesnesi oluşturulamaz
+    //nesnesi oluşturulamaz yada nesne üzerinde abstract methodlar override edilmelidir.
     //miras verebilir
     //abstract sınıfta en az bir tane abstract method olmalıdır
     abstract void tckimlikAl();
